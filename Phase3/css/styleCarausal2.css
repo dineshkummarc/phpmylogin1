@@ -264,31 +264,19 @@
 ::-webkit-scrollbar-thumb {
   background: rgba(74, 168, 0, 0.6);
 }
-ul,
-ol {
-  padding-left: 40px;
-}
-html,
-body {
-  height: 100%;
-  overflow-x: hidden;
-  text-align: center;
-  font: 400 100% 'Raleway', 'Lato';
-  background-color: #282828;
-  color: #CCC;
-}
-body {
-  padding-bottom: 60px;
-}
 h1 {
   font-weight: 700;
   font-size: 310%;
 }
 h2 {
-  font-weight: 400;
-  font-size: 120%;
-  color: #71AD37;
-}
+  line-height: 1.66;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  color: #222;
+  font-family: Poppins;
+  font-size: 36px; 
+} 
 #slider1 {
   margin: 20px;
   font-family: 'Lato';
