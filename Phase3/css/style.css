@@ -451,6 +451,20 @@ label.valid {
   -webkit-transform: translateY(0);
   -o-transform: translateY(0);
   -ms-transform: translateY(0); }
+  
+  .back-to-login {
+  position: relative;
+  top: 0%;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+    /* box-sizing: border-box; */
+    padding: 0 30px;
+  transform: translateY(0);
+  -moz-transform: translateY(0);
+  -webkit-transform: translateY(0);
+  -o-transform: translateY(0);
+  -ms-transform: translateY(0); }
 
 .material-icons-name {
   font-size: 18px; }
